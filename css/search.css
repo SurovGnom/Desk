@@ -1,0 +1,23 @@
+.search__name{
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 22px;
+    color: #888B97;
+    
+}
+.search__go{
+    padding: 12px 16px;
+    background: #F2994A;
+    border-radius: 32px;
+    color: #FFFFFF;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 22px;
+    
+   
+    
+}
+.search__button-arrow{
+    margin-left: 4px;
+    vertical-align: middle;
+}

@@ -1,0 +1,20 @@
+.name__appeal{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+    color: #626687;
+}
+ .name__heading{
+    margin-bottom: 12px;
+    color: #F59E0B;
+    gap:8px;
+    display: flex;
+    align-items: center;
+}
+  
+.name__title{
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 40px;
+    color: #1B1C57;
+}

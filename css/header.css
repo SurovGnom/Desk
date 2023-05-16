@@ -1,0 +1,47 @@
+.header{ 
+   padding: 35px 0;
+   position: fixed;
+   top: 0;
+   left: 0;
+   width: 100%;
+   z-index: 2;
+}
+.header.sticky {
+    background-color: white;
+    opacity: 0;
+}
+
+.header__logo{
+    width: 71px;
+    
+}
+
+
+
+.header__image{
+    display: flex;
+    margin-left: 100px;
+    width: 680px;
+    height: 756px;
+    
+  
+}
+.header__image-one{
+    
+    background-image: url('img/image/6.jpg');
+    background-repeat: no-repeat;
+    border-radius: 100px 0px 0px 100px;
+    background: linear-gradient(16.74deg, #0C1537 -6.09%, rgba(12, 21, 55, 0) 32.63%)
+   
+    
+}
+.header__image-second{
+    background-image: url('../img/image\ 7.jpg');
+    background-repeat:no-repeat ;
+}
+.header__inner {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+}

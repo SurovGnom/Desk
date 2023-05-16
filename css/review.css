@@ -1,0 +1,94 @@
+.review{
+    margin-bottom:  60px;
+}
+.review__heading{
+    display: flex; 
+    flex-direction: column;
+    align-items: center;
+    gap:8px;
+    padding-bottom: 40px;
+}
+.review__modal{
+    display: flex;
+    gap: 40px;
+    justify-content: center;
+}
+.review__block{
+        display: flex;
+        flex-direction: column;
+        padding: 32px;
+        gap: 24px;
+        border-radius: 16px;
+        background-color: #ffff;
+        bottom: 9em;
+        left: 4em;
+        position: relative;
+        width: 612px;
+        box-shadow: 0px 9px 32px rgba(89, 92, 219, 0.05);
+}
+.review__image{
+    width:740px;
+    border-radius: 8px;
+}
+.review__header{
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 25px;
+    color: #1B1C57;
+}
+.review__desc{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #626687;
+}
+.review__profile{
+    display: flex;
+    gap: 24px;
+    align-items: center;
+}
+.review__value{
+    gap: 16px;
+    display: flex;
+    align-items: center;
+    position: absolute;
+    right: 3em;
+    bottom: 12%;
+}
+.review__user-score{
+    display: flex;
+}
+.review__author{
+    gap: 4px;
+    display: flex;
+    flex-direction: column;
+}
+.review__name{
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 22px;
+    color: #0E1735;
+
+}
+.review__prof{
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 22px;
+    color: #888B97;
+}
+.avatar__review{
+    width: 20%;
+}
+.review__score{
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 28px;
+    color: #3C4563;
+}
+.review__switch{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    bottom: 6em;
+}
+

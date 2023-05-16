@@ -1,0 +1,119 @@
+.trick{
+    margin-bottom: 140px;
+}
+
+.trick__heading{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    gap: 8px;
+}
+.trick__row{
+    display: flex;
+    gap: 68px;
+    align-items: center;
+}
+.trick__col{
+    width:50%;
+}
+.trick__review{
+
+}
+.trick__profile{
+    display: flex;
+    align-items: center;
+    gap: 16px;
+}
+.trick__name{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 22px;
+    color: #3C4563;
+}
+.trick__image{
+    border-radius: 16px;
+}
+.trick__container{
+    display:flex;
+    flex-direction: column;
+    gap: 40px;
+}
+.trick__block{
+    display: flex;
+    gap: 32px;
+}
+.avatar__trick{
+    width: 10%;
+}
+.trick__time{
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    padding-top: 16px;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #888B97;
+}
+.trick__letter{
+    margin-top: 12px;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 32px;
+    text-transform: capitalize;    
+    color: #1B1C57;
+}
+.trick__img{
+    border-radius: 16px;
+    position: relative;
+    top: 7em;
+}
+.trick__review--scene{
+    margin: 0 27px 20px 28px
+}
+.trick__profile--scene{
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    margin-bottom: 12px;
+}
+.trick__name-scene{
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 22px;
+    color: #F2F2F2;
+
+}
+.trick__letter--scene{
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 32px;
+    text-transform: capitalize;
+    color: #F2F2F2;
+
+}
+.trick__time--scene{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #F2F2F2;
+    display: flex;
+    gap: 12px;
+    margin-top: 16px;
+}
+.trick__blur{
+    position: relative;
+    width: 560px;
+    height: 227px;
+    background: linear-gradient(180deg, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.78) 100%);
+    border-radius: 16px;
+    bottom: 7rem;
+}
+.avatar__trick--scene{
+    width: 6%;
+}
+.trick__modal-block{
+    top: 6em;
+    position: relative;
+}

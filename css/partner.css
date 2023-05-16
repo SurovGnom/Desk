@@ -1,0 +1,11 @@
+.partner__name{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 32px;
+    color: #888B97;
+}
+.partner__logo{
+    display: flex;
+    column-gap: 32px;
+    
+}
